@@ -5,3 +5,16 @@ Client interact with server sending some specifics commands and server hold that
 The server logs all the commands that were sent by the client.
 ## Differences between TCP and UDP
 ![alt text](https://microchip.wdfiles.com/local--files/tcpip:tcp-vs-udp/TCP_vs_UDP.JPG)
+
+## File structure
+--udp
+|---cliente.c
+|---local.h
+|---servidor.c
+
+--tcp
+|---cliente.c
+|---local.h
+|---servidor.c
+
+## Structure description
